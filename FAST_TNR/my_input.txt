@@ -1,0 +1,2 @@
+1000	16	16	SJ_nodes_normalized.txt	SJ_edges_normalized_clean.txt	5000000	5000000	SJ_nodes_normalized_SJ_edges_normalized_clean_64X64.bin
+1	1	Centroid_SJ_nodes_normalized_1000_1_1.txt	Centroid_SJ_nodes_normalized_1000_1_2.txt	
